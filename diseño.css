@@ -115,5 +115,7 @@ body{
 
 }
 .mg{
-    text-align: center;
+     width: 100%;
+  height: auto;
+  display: block;
 }
